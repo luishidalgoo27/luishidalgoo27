@@ -18,36 +18,32 @@ Soy **Desarrollador Web Junior Fullstack**, con un fuerte enfoque en **backend**
 
 ### 🖥️ Backend
 - PHP (Laravel, Symfony)
-- Node.js
-- MySQL / MariaDB
+- MySQL
 - API RESTful
 - Doctrine ORM
+- Eloquent ORM
 - Composer
 - Docker
 
 ### 🎨 Frontend
-- HTML5, CSS3 (Flexbox, Grid)
-- JavaScript (ES6+)
-- TypeScript
+- HTML5, CSS3 
+- JavaScript
 - React
-- Bootstrap
+- TailwindCSS
 
 ### ⚙️ Herramientas y buenas prácticas
 - Git & GitHub
 - MVC, SOLID, Clean Code
-- Postman / Insomnia
+- Postman
 - VS Code
-- Linux / Bash
-- PHPUnit
-
 ---
 
 ## 📫 Contacto
 
 Si te interesa colaborar o simplemente charlar sobre desarrollo web, ¡estaré encantado!
 
-- 📧 luishidalgogoo27@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/) *(añádelo si tienes perfil)*
+- 📧 luishidalgosantiago.lh@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-hidalgoo/) *(añádelo si tienes perfil)*
 
 ---
 
