@@ -43,7 +43,7 @@ Soy **Desarrollador Web Junior Fullstack**, con un fuerte enfoque en **backend**
 Si te interesa colaborar o simplemente charlar sobre desarrollo web, ¡estaré encantado!
 
 - 📧 luishidalgosantiago.lh@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/luis-hidalgoo/) *(añádelo si tienes perfil)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-hidalgoo/)
 
 ---
 
